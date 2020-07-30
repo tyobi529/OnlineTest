@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 1cf4cf619764d4cb6a934a9a059f7d3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7412443858733503241
+    second: inunekoshougi_0
+  - first:
+      213: -1019122733066679926
+    second: inunekoshougi_1
+  - first:
+      213: -4375137549680454513
+    second: inunekoshougi_2
+  - first:
+      213: -1905470862742119733
+    second: inunekoshougi_3
+  - first:
+      213: 2860369458563036262
+    second: inunekoshougi_4
+  - first:
+      213: 5687367997888041528
+    second: inunekoshougi_5
+  - first:
+      213: -6948352424707951357
+    second: inunekoshougi_6
+  - first:
+      213: 4810491524551246345
+    second: inunekoshougi_7
+  - first:
+      213: 8909557823284065282
+    second: inunekoshougi_8
+  - first:
+      213: -5142914782837781305
+    second: inunekoshougi_9
+  - first:
+      213: -5833561060265971287
+    second: inunekoshougi_10
+  - first:
+      213: -5861239343707676810
+    second: inunekoshougi_11
+  - first:
+      213: 7655856680081023571
+    second: inunekoshougi_12
+  - first:
+      213: -720030293324528756
+    second: inunekoshougi_13
+  - first:
+      213: 3150810318269183652
+    second: inunekoshougi_14
+  - first:
+      213: 241750400652878510
+    second: inunekoshougi_15
+  - first:
+      213: 5084012577925016256
+    second: inunekoshougi_16
+  - first:
+      213: -5874055247013847610
+    second: inunekoshougi_17
+  - first:
+      213: -5895566046783428137
+    second: inunekoshougi_18
+  - first:
+      213: -707058257392798343
+    second: inunekoshougi_19
+  - first:
+      213: 3353362324086573608
+    second: inunekoshougi_20
+  - first:
+      213: 5773478275717313865
+    second: inunekoshougi_21
+  - first:
+      213: 6851685572823234170
+    second: inunekoshougi_22
+  - first:
+      213: 8881464911832344506
+    second: inunekoshougi_23
+  - first:
+      213: -6873608074483756467
+    second: inunekoshougi_24
+  - first:
+      213: -1988799120521603545
+    second: inunekoshougi_25
+  - first:
+      213: -7598592551473117362
+    second: inunekoshougi_26
+  - first:
+      213: 5171699023955826432
+    second: inunekoshougi_27
+  - first:
+      213: 1344513182961062496
+    second: inunekoshougi_28
+  - first:
+      213: 827339911032696165
+    second: inunekoshougi_29
+  - first:
+      213: 3607787754760312147
+    second: inunekoshougi_30
+  - first:
+      213: -3799905664657110017
+    second: inunekoshougi_31
+  - first:
+      213: -3466708588404086554
+    second: inunekoshougi_32
+  - first:
+      213: 5319106092462148460
+    second: inunekoshougi_33
+  - first:
+      213: 8382462694513656626
+    second: inunekoshougi_34
+  - first:
+      213: -724303379717074008
+    second: inunekoshougi_35
+  - first:
+      213: 7564558186281401547
+    second: inunekoshougi_36
+  - first:
+      213: -7966540354896239080
+    second: inunekoshougi_37
+  - first:
+      213: -3305128883222492941
+    second: inunekoshougi_38
+  - first:
+      213: 442004026221931700
+    second: inunekoshougi_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inunekoshougi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fce9a25595b12990800000000000000
+      internalID: -7412443858733503241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89090916495bd1f0800000000000000
+      internalID: -1019122733066679926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84d2db34936843c0800000000000000
+      internalID: -4375137549680454513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca166098586e85e0800000000000000
+      internalID: -1905470862742119733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664b6002ed212b720800000000000000
+      internalID: 2860369458563036262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8329a05af079dee40800000000000000
+      internalID: 5687367997888041528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305fe0f984e729f90800000000000000
+      internalID: -6948352424707951357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90287e3fd8c42c240800000000000000
+      internalID: 4810491524551246345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20436aaa2ab15ab70800000000000000
+      internalID: 8909557823284065282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 303
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc49dad042b0a8b0800000000000000
+      internalID: -5142914782837781305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1bb4b8f170b0fa0800000000000000
+      internalID: -5833561060265971287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f92cefed1b8aea0800000000000000
+      internalID: -5861239343707676810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e78b86111f3a60800000000000000
+      internalID: 7655856680081023571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830fda5340f106f0800000000000000
+      internalID: -720030293324528756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6f11f6a4de9bb20800000000000000
+      internalID: 3150810318269183652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2293365beda5300800000000000000
+      internalID: 241750400652878510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caa6dcd08a0e8640800000000000000
+      internalID: 5084012577925016256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd58baffd92b7ea0800000000000000
+      internalID: -5874055247013847610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ae9f9aedbe2ea0800000000000000
+      internalID: -5895566046783428137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 203
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9757894d2460036f0800000000000000
+      internalID: -707058257392798343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82acb525449898e20800000000000000
+      internalID: 3353362324086573608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945b09e07e38f1050800000000000000
+      internalID: 5773478275717313865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a763cc80ab3161f50800000000000000
+      internalID: 6851685572823234170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ecd2084d414b70800000000000000
+      internalID: 8881464911832344506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42932bcfd90c90a0800000000000000
+      internalID: -6873608074483756467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72653bbacbd5664e0800000000000000
+      internalID: -1988799120521603545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47048065506c8690800000000000000
+      internalID: -7598592551473117362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071f188cd095c740800000000000000
+      internalID: 5171699023955826432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062593acd9ba8a210800000000000000
+      internalID: 1344513182961062496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 103
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d6b91044d4b7b00800000000000000
+      internalID: 827339911032696165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551e7b19df611230800000000000000
+      internalID: 3607787754760312147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb4e164ee5044bc0800000000000000
+      internalID: -3799905664657110017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8e06008e6c3efc0800000000000000
+      internalID: -3466708588404086554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b82db2fc241d940800000000000000
+      internalID: 5319106092462148460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334371986d745470800000000000000
+      internalID: 8382462694513656626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a35956e9e1c2f5f0800000000000000
+      internalID: -724303379717074008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc73187795baf860800000000000000
+      internalID: 7564558186281401547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816689971c9217190800000000000000
+      internalID: -7966540354896239080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8c3a2cac2d122d0800000000000000
+      internalID: -3305128883222492941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inunekoshougi_39
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc204ce150522600800000000000000
+      internalID: 442004026221931700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
