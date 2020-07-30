@@ -32,7 +32,19 @@ MonoBehaviour:
   EnableSupportLogger: 0
   RunInBackground: 1
   StartInOfflineMode: 0
+<<<<<<< HEAD
   RpcList: []
+=======
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - HitByProjectile
+  - OnBrake
+  - OnTriggerEnter2D
+  - RespawnSpaceship
+>>>>>>> 3e067ebdf2030ff39510fb50da32886635856e8c
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0
