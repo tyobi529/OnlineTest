@@ -37,11 +37,10 @@ MonoBehaviour:
   - DestroyRpc
   - DestroySpaceship
   - Fire
-  - RespawnSpaceship
-  - FireProjectile
   - HitByProjectile
-  - OnTriggerEnter2D
   - OnBrake
+  - OnTriggerEnter2D
+  - RespawnSpaceship
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 0
